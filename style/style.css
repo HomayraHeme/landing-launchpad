@@ -103,7 +103,9 @@
     background-color: white;
     height: 170px;
     width: 250px;
-    border: 500px solid #0d0d0e;
+    border: 1px solid #e7e7ea;
+    padding: 20px;
+    border-radius: 15px;
 
 
  }
@@ -116,4 +118,17 @@
     text-align: center;
 
 
+
+ }
+
+ .box {
+    width: 400px;
+    border: 1px solid #d1d1d3;
+    border-radius: 10px;
+    padding-left: 20px;
+ }
+
+ .title {
+    font-size: 18px;
+    font-weight: 500px;
  }
