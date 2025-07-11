@@ -23,8 +23,8 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 50px;
  }
 
@@ -56,4 +56,16 @@
     padding-left: 220px;
     padding-right: 220px;
 
+ }
+
+ .padding {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+ }
+
+ .img {
+    height: 250px;
+    width: 308px;
+    border-radius: 16px;
  }
