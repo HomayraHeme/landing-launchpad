@@ -30,7 +30,7 @@
 
  .logo {
     font-size: 34px;
-    font-weight: bolder;
+    /* font-weight: bolder; */
     color: #4E47FF;
 
  }
@@ -46,6 +46,11 @@
     border-radius: 16px;
     border: none;
 
+ }
+
+ .btn:hover {
+    background-color: #231f94;
+    font-size: 22px;
  }
 
  .header-title {
@@ -131,4 +136,18 @@
  .title {
     font-size: 18px;
     font-weight: 500px;
+ }
+
+ .link {
+    text-decoration: none;
+    color: #9a9a9c;
+    padding-right: 30px;
+ }
+
+ .footer {
+    padding-top: 104px;
+    padding-bottom: 104px;
+    padding-right: 350px;
+    padding-left: 350px;
+    text-align: center;
  }
