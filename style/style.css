@@ -107,3 +107,13 @@
 
 
  }
+
+ .ready {
+    background-color: white;
+    width: 1050px;
+    border-radius: 16px;
+    height: 600px;
+    text-align: center;
+
+
+ }
