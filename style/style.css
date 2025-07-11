@@ -30,8 +30,7 @@
 
  .logo {
     font-size: 34px;
-    /* font-weight: bolder; */
-    color: #4E47FF;
+    font-weight: bolder color: #4E47FF;
 
  }
 
@@ -64,8 +63,8 @@
  }
 
  .padding {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-top: 100px;
  }
 
@@ -77,8 +76,6 @@
 
  .join {
     background-color: #dad9f7;
-    height: 306px;
-    width: 1050px;
     border-radius: 16px;
  }
 
@@ -117,9 +114,7 @@
 
  .ready {
     background-color: white;
-    width: 1050px;
     border-radius: 16px;
-    height: 600px;
     text-align: center;
 
 
